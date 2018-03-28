@@ -32,15 +32,11 @@ Netease cloud music the most basic function realization, song single part, searc
 
 #### Create a project
 
->- vue init webpack-simple name
+>- vue init webpack name
 
 #### Installation project dependencies
 
 >- npm install
-
-#### Install vue routing module and network request module
-
->- cnpm install vue-router vue-resource --save
 
 #### Start the project
 
